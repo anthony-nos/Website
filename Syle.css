@@ -1,0 +1,64 @@
+button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+body {
+    background-color: lightgrey;
+    margin: 0;
+    padding: 0;
+  }
+
+  #topBanner {
+    background-image: url(webbackground.jpg);
+    background-size: cover; 
+    background-position:0%; 
+    height: 200px; 
+    position: relative;
+  }
+
+
+h1{
+    font-family: verdana;
+    font-size: 14px;
+    font-style: oblique;
+    text-align: right;
+    color: blue;
+
+}
+
+h2{
+    font-family: verdana;
+    text-align: left;
+    font-size: 18px;
+    font-style: oblique;
+    color: blue;
+}
+h3{
+    text-align: left;
+    font-family: verdana;
+    font-size: 18px;
+    font-style: oblique;
+    color: blue;
+}
+h4{
+    text-align: left;
+    font-family: verdana;
+    font-size: 18px;
+    font-style: oblique;
+    color: blue;
+}
+p{
+    font-family: verdana;
+    font-style: oblique;
+    text-align: left;
+    color: black;
+}
